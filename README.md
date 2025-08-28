@@ -12,7 +12,6 @@ I am an **AI & ML-focused Software Engineer with 5+ years of experience** in **G
 
 - Currently at **TD Bank (Toronto, Canada)** → building **enterprise Generative AI solutions** using **React, FastAPI, LangChain, LangGraph, and Azure AI**.  
 - Previously at **HP** → developed **C++/CLI plugins, cloud-integrated scanning platforms, and high-performance multithreaded features**.  
-- Early career at **Agrima Infotech** → designed **REST APIs and deep learning image processing systems**.  
 
 💡 My expertise bridges **AI research & systems engineering**, with a focus on **C++ & Go for distributed AI infra**, **Azure & Oracle Cloud**, and **end-to-end ML pipelines**.  
 
@@ -73,13 +72,6 @@ I am an **AI & ML-focused Software Engineer with 5+ years of experience** in **G
 - ✅ Automated testing with Jenkins + GoogleTest → **30% reduction in QA effort**.  
 
 **Tech:** C++, C#, .NET, WPF, REST APIs, OpenMP, Jenkins, SQL  
-
----
-
-### **Software Engineer @ Agrima Infotech (2017 – 2018)**  
-- 🍲 Developed **REST APIs for recipe analysis**, improving revenue by 8%.  
-- 🤖 Built **deep learning pipeline** for food recognition with TensorFlow + ImageNet.  
-- ⚡ Optimized dataset labeling & training workflows, reducing prep time for AI models.  
 
 ---
 
