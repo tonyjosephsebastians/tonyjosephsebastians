@@ -16,10 +16,6 @@ I am an **AI & ML-focused Software Engineer with 5+ years of experience** in **G
 💡 My expertise bridges **AI research & systems engineering**, with a focus on **C++ & Go for distributed AI infra**, **Azure & Oracle Cloud**, and **end-to-end ML pipelines**.  
 
 ---
-## 🚀 Tech Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 ## 🛠️ Tech Stack  
 
